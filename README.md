@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=orange)
+![](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=green)
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex&logoColor=008080)
 
 
