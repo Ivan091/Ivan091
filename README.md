@@ -3,6 +3,6 @@
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex&logoColor=008080)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan091&theme=blue-green)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ivan091&theme=material-palenight)]
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan091&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan091&theme=material-palenight)
