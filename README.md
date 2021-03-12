@@ -9,6 +9,8 @@
 ![](https://img.shields.io/badge/-LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=008080)
 ![](https://img.shields.io/badge/-Thymeleaf-0d1117?style=for-the-badge&logo=thymeleaf&logoColor=005F0F)
 ![](https://img.shields.io/badge/-docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/-idea-0d1117?style=for-the-badge&logo=intellij-idea&logoColor=FFFFFF)
+
 
 
 
