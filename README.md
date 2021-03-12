@@ -1,6 +1,8 @@
-[![Foo](https://img.shields.io/badge/-codewars-0d1117?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/QuantumDasein)
-[![Foo](https://img.shields.io/badge/-linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ivan-kornasevich-672203202/)
+## Social
+[![](https://img.shields.io/badge/-codewars-0d1117?style=for-the-badge&logo=codewars&logoColor=B1361E)](https://www.codewars.com/users/QuantumDasein)
+[![](https://img.shields.io/badge/-linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ivan-kornasevich-672203202/)
 
+## Tools
 ![](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=java&logoColor=orange)
 ![](https://img.shields.io/badge/Spring-0d1117?style=for-the-badge&logo=spring&logoColor=green)
