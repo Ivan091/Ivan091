@@ -3,6 +3,6 @@
 ![](https://img.shields.io/badge/-LaTeX-black?style=for-the-badge&logo=latex&logoColor=008080)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Ivan091&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Ivan091&theme=midnight-purple&bg_color=0d1117&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan091&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan091&theme=midnight-purple&bg_color=0d1117&hide_border=true)
